@@ -35,14 +35,6 @@ Feel free to clone, fork, or refer to this repo while:
 - Working on cloud-based projects
 - Revising key AWS concepts
 
-## 📸 Example Diagram
-
-![AWS Overview](https://d1.awsstatic.com/diagrams/aws-overview.2e54b05c8d95e82d1a6d7e0c119b0e53c1e13f38.png)
-
-## 📜 License
-
-This repository is intended for **educational use only**. No official AWS content is reproduced.
-
 ---
 
 > ✅ Feel free to contribute if you have new AWS notes or useful resources!
