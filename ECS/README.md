@@ -108,9 +108,10 @@ Ensure you have the necessary AWS credentials configured using the following com
 In this section, we'll deploy a simple web application using ECS.
 
 ### Preparing the Application:
-Create a Dockerfile for your web application.
-Build the Docker image and push it to Amazon ECR (Elastic Container Registry).
-Creating a Task Definition:
+- Create a Dockerfile for your web application.
+- Build the Docker image and push it to Amazon ECR (Elastic Container Registry).
+
+### Creating a Task Definition:
 Define the task using the ECS CLI or the AWS Management Console.
 
 ### Configuring the Service:
